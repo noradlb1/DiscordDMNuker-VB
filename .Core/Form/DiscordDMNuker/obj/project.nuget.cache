@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "E51s5ZPxqNAMjx7x2WJ87OtiU2bHfbnoJ3B6f3Si0ZqajgGKLEGVrRB64ZfjEdbyPOY4J90UhRgczUWY3tzl+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MONSTERMC\\Downloads\\DiscordDMNuker-main\\DiscordDMNuker-main\\DiscordDMNuker\\DiscordDMNuker\\DiscordDMNuker.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\discord.anarchy\\0.8.3.2\\discord.anarchy.0.8.3.2.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\microsoft.maui.graphics\\7.0.92\\microsoft.maui.graphics.7.0.92.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\system.resources.extensions\\7.0.0\\system.resources.extensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MONSTERMC\\.nuget\\packages\\websocketsharp.core\\1.0.0\\websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

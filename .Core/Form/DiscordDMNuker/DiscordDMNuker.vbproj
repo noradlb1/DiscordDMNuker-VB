@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <DebugType>none</DebugType>
+    <Platforms>AnyCPU;x64</Platforms>
+    <DefaultItemExcludes>$(DefaultItemExcludes);$(ProjectDir)**\*.cs</DefaultItemExcludes>
+    <StartupObject>DiscordDMNuker.DiscordDMNuker.FormStart</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Discord.Anarchy" Version="0.8.3.2" />
+    <PackageReference Include="Microsoft.Maui.Graphics" Version="7.0.92" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.Resources.Extensions" Version="7.0.0" />
+    <PackageReference Include="websocketsharp.core" Version="1.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Anarchy">
+      <HintPath>..\..\..\Anarchy\.bin\Anarchy\Release\net6.0\Anarchy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+</Project>
